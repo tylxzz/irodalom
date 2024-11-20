@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+tbody td:first-child {
+    background-color: blue;
+}
+
+tbody td:last-child {
+    background-color: blue;
+}
+
+th:nth-child(2) {
+    background-color: blue;
+}
