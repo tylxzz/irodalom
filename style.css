@@ -17,3 +17,7 @@ tbody td:last-child {
 th:nth-child(2) {
     background-color: blue;
 }
+
+.error {
+    color: red;
+}
